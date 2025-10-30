@@ -6,6 +6,8 @@
 
 pub mod fixed;
 
+pub mod ring;
+
 mod io_buf;
 pub use io_buf::IoBuf;
 
